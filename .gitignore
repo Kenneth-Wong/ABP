@@ -16,7 +16,7 @@ checkpoint/
 
 # dataset
 datasets/vg/
-*.png
+#*.png
 *.jpg
 *.jpeg
 
