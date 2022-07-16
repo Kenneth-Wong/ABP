@@ -90,6 +90,13 @@ We provide a [pretrained model](https://drive.google.com/file/d/1F4Rk8d9kWnErC23
 
 
 
+
+## Acknowledgement
+
+This repository was built based on [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) for scene graph generation and [PySGG](https://github.com/SHTUPLUS/PySGG) for their detectors on OpenImages. 
+
+
+
 ## Citations
 
 If you find this project helps your research, please kindly consider citing our project or papers in your publications.
